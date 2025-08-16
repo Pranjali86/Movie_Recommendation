@@ -21,7 +21,11 @@ Deployment: Works on any static web server
 
 📂 Project Structure
 MovieRecommendation/
+
 │── index.html       # Main webpage
+
 │── style.css        # Styling
+
 │── script.js        # Logic for movie recommendation
+
 │── README.md        # Project documentation
